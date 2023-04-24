@@ -1,0 +1,3 @@
+C:/Coding/C and C++/CLionProjects/ECE 220 LAB4/ECE 220 LAB4 Task 1/cmake-build-debug/CMakeFiles/ECE_220_LAB4.dir
+C:/Coding/C and C++/CLionProjects/ECE 220 LAB4/ECE 220 LAB4 Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/C and C++/CLionProjects/ECE 220 LAB4/ECE 220 LAB4 Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
